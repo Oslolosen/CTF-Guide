@@ -89,8 +89,8 @@ ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig 
 
 ### Nyttige nettsider
 #### Generelt (Har alle kategorier)
-[picoCTF](https://play.picoctf.org/practice) \
-[foreverCTF](https://forever.isss.io/challenges) \
+[picoCTF](https://play.picoctf.org/practice)\
+[foreverCTF](https://forever.isss.io/challenges)\
 [HackTheBox Challenges](https://app.hackthebox.com/challenges)
 
 #### Lær Linux kommandoer
