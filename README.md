@@ -103,7 +103,7 @@ ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig 
 [PortSwigger](https://portswigger.net/web-security)
 
 #### Binary Exploitation (PWN)
-[Exploit.Education](https://exploit.education/protostar/) (Gjør oppgavene samtidig som du ser på [LiveOverflow](https://www.youtube.com/watch?v=T03idxny9jE&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&index=13) på YouTube som går igjennom oppgavene og forklarer)
+[Exploit.Education](https://exploit.education/protostar/) (Gjør oppgavene samtidig som du ser på [LiveOverflow](https://www.youtube.com/watch?v=T03idxny9jE&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&index=13) på YouTube som går igjennom oppgavene og forklarer)\
 [PWN.college](https://pwn.college/dojos) (Har kurs innen assembly, webservers, reversing, buffer overflows)
 
 #### Forensics og Incident Response (IR)
@@ -117,7 +117,7 @@ ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig 
 [HackTheBox Academy](https://academy.hackthebox.com/)
 
 #### YouTube-kanaler
-[John Hammond](https://www.youtube.com/@_JohnHammond)
-[NetworkChuck](https://www.youtube.com/@NetworkChuck)
-[LiveOverflow](https://www.youtube.com/@LiveOverflow)
+[John Hammond](https://www.youtube.com/@_JohnHammond)\
+[NetworkChuck](https://www.youtube.com/@NetworkChuck)\
+[LiveOverflow](https://www.youtube.com/@LiveOverflow)\
 [IPSec](https://www.youtube.com/@ippsec)
