@@ -64,10 +64,10 @@ Anbefaler å bruke "Windows Terminal" og ikke "cmd". Windows terminal har flere 
     `docker start <container id>`
     
 9. For å koble deg til en kjørende Docker-container, laste ned alle verktøyene og lage en bruker:
-	 `docker attach <container id>` \n
-	 `apt-get install kali-linux-all` \n
-	 `adduser <navn>` \n
-	 `usermod -aG sudo <navn>` \n
+	 `docker attach <container id>` \
+	 `apt-get install kali-linux-all` \
+	 `adduser <navn>` \
+	 `usermod -aG sudo <navn>` \
 	 `su <navn>`
 
 
