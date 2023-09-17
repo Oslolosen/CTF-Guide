@@ -83,7 +83,7 @@ GDB (GNU Debugger): Dette verktøyet er en debugger som gir deg muligheten til �
 
 Python og en teksteditor: Å ha Python tilgjengelig for å skrive raske skript som kan utføre spesifikke oppgaver, er alltid nyttig. Jeg personlig anbefaler Visual Studio Code som en teksteditor.
 
-CyberChef: CyberChef er et program som kan dekode forskjellige "dataspråk", noe som er nyttig når du må oversette encodinger til lesbar tekst. Heldigvis er dette verktøyet webbasert. [CyberChef](https://gchq.github.io/CyberChef/)
+CyberChef: CyberChef er et program som kan dekode forskjellige "dataspråk", noe som er nyttig når du må oversette encodinger til lesbar tekst. Heldigvis er dette verktøyet webbasert: [CyberChef](https://gchq.github.io/CyberChef/)
 
 ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig under CTF-oppgaver, da hacking og exploit-forsøk kan være involvert. Det er lurt å ha en god dialog med ChatGPT før du bruker den i slike sammenhenger. (Denne settningen er ordrett fra sjefen sjøl)
 
