@@ -113,7 +113,7 @@ ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig 
 [HackTheBox](https://app.hackthebox.com/machines)
 
 #### Læringsmoduler
-[TryHackMe](https://tryhackme.com/)
+[TryHackMe](https://tryhackme.com/)\
 [HackTheBox Academy](https://academy.hackthebox.com/)
 
 #### YouTube-kanaler
