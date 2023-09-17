@@ -29,7 +29,7 @@ Anbefaler å bruke "Windows Terminal" og ikke "cmd". Windows terminal har flere 
 3. Du kan nå åpne Kali WSL i Windows Terminal som en egen tab
 
 
-### Kali Linux Docker på en Debian Linux-maskin:
+## Kali Linux Docker på en Debian Linux-maskin:
 
 1. Oppdater pakkelisten ved å kjøre følgende kommando: 
 	
