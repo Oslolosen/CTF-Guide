@@ -1,3 +1,6 @@
+
+# LINK [PicoCTF](https://play.picoctf.org)
+
 # Gode oppgaver for folk som har prøvd litt før:
 
 ### Wireshark twoo twooo two twoo...(Forensics)
