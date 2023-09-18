@@ -18,11 +18,10 @@
 ### Wave a flag (General skills)
 ### Nice netcat...(General skills)
 ### Bases (General skills)
-### Insp3ct0r (General skills)
 ### fixme1.py (General skills)
 ### fixme2.py (General skills)
 ### Matryoshka doll (Forensics)
-### Logon (WEB)
-
+### Logon (Web)
+### Insp3ct0r (Web)
 
 LINK: [PicoCTF](https://play.picoctf.org)
