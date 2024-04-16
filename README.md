@@ -107,7 +107,7 @@ ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig 
 [PWN.college](https://pwn.college/dojos) (Har kurs innen assembly, webservers, reversing, buffer overflows)
 
 #### Forensics og Incident Response (IR)
-[BlueTeamLabs](https://blueteamlabs.online/)
+[BlueTeamLabs](https://blueteamlabs.online/)\
 [Sherlock HTB](https://app.hackthebox.com/sherlocks)
 
 #### Pentesting
