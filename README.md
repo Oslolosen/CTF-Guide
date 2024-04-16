@@ -108,6 +108,7 @@ ChatGPT: Selv om ChatGPT kan være nyttig, er det viktig å bruke den ansvarlig 
 
 #### Forensics og Incident Response (IR)
 [BlueTeamLabs](https://blueteamlabs.online/)
+[Sherlock HTB](https://app.hackthebox.com/sherlocks)
 
 #### Pentesting
 [HackTheBox](https://app.hackthebox.com/machines)
